@@ -1,0 +1,28 @@
+Answer the following questions by modifying this text file.  Write your answers between each question.
+
+
+1. What is your name?  What do you prefer to be caled?
+  My name is Muhammad Ghazi Randhawa
+  I preferred to be called Ghazi.
+
+
+2. Why are you taking CS35?
+    To learn about algorithims. I like programming generally.
+
+
+3. What is your previous experience in Computer Science?  What languages do you know and which classes have you taken?
+    I have taken CS31 and CS21 at swat. I did MS-DOS a while back.
+
+
+4. These are a couple questions about how you approach your assignments.  You're not being graded or judged on these answers; we're just curious.
+
+  a. Do you start on your homework as soon as it is assigned or do you tend to finish it right before it's due?
+    If it is my priority class, i do it ASAP.
+
+
+  b. When doing group work, do you prefer for your group to split your work up into pieces or do you like to work together as a group through as much of the material as possible?
+    I honestly am comfortable with both.
+
+
+5. What do you consider fun?
+    I like being in the mountains and alone. I like listening to Love and divine poetry. I also think horseback riding is fun.
