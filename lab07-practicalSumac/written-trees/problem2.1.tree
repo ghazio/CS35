@@ -1,0 +1,30 @@
+        9
+    7       8
+  6   5   7   2
+ 3 5 1
+
+: The value 8 is initially added as follows:
+
+
+        9
+      7        8
+  6    5     7   2
+3  5  1 8
+
+: We swap 8 with 5 as our first swap:
+          9
+      7        8
+  6    8     7   2
+3  5  1 5
+
+: Now, we swap 7 with 8 as our first swap. :
+          9
+      8        8
+  6    7     7   2
+3  5  1 5
+
+:We cannot swap 8 with 9 since 9 is larger than 8. Hence, our tree looks like:
+          9
+      8        8
+  6    7     7   2
+3  5  1 5

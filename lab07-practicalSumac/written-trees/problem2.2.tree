@@ -1,0 +1,36 @@
+        9
+    6       7
+  4   3   5   2
+ 3 1 2 2 3 4
+
+
+
+:We first swap 9 with the last node in the last row which is 4:
+        4
+    6       7
+  4   3   5   2
+ 3 1 2 2 3 9
+
+:We delete the last node now and are left with the following :
+         4
+     6       7
+   4   3   5   2
+  3 1 2 2 3
+
+:We now start bubbling down the root of the tree. We first swap 4 with 7:
+          7
+      6       4
+    4   3   5   2
+   3 1 2 2 3
+
+
+:We now swap 4 with 5 to get the following tree:
+             7
+         6       5
+       4   3   4   2
+      3 1 2 2 3
+:We cannot do any further bubbling down and so our final tree:
+             7
+         6       5
+       4   3   4   2
+      3 1 2 2 3

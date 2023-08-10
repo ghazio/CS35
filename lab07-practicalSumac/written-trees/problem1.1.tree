@@ -1,0 +1,13 @@
+       8
+    6     9
+  4  7
+ 2
+
+# remove this vertical space once you have added your tree.
+: After the left rotation, the tree will look like
+:Subtree rooted at 4 is X
+:Subtree rooted at 7 is y
+:Subtree rooted as 9 is Z
+    6
+  4     8
+2     7   9
